@@ -11,6 +11,7 @@
 		<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp1DpWfuzHILRGTU0Vr_JGmjNda4DT9czgIXODRtec2cckGmZY" width=600 height=350>
 		<br><br>
 		- git --ver
+		zzzz
 	<h2>======================> <a href="login_form.jsp">Login</a></h2>	
 	</div>
 	
